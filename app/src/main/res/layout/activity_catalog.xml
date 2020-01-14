@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <!--Column 1-->
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="32dp">
+
+            <ImageButton
+                android:id="@+id/frames"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+            <ImageButton
+                android:id="@+id/frames8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+        </LinearLayout>
+
+
+    <!--Column 2 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="32dp">
+            <ImageButton
+                android:id="@+id/frames0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames30"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames40"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames50"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames60"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames70"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+
+            <ImageButton
+                android:id="@+id/frames80"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@null"
+                android:src="@drawable/frame" />
+        </LinearLayout>
+
+        <!--Column 3 -->
+
+
+
+
+        <!--END-->
+    </LinearLayout>
+</ScrollView>
